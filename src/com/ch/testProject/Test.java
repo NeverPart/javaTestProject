@@ -10,7 +10,6 @@ import java.util.*;
  */
 public class Test {
     public static void main(String[] args) {
-
         //randomStr(2, 10);
         test("AaBBCC");
 
